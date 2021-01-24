@@ -17,5 +17,5 @@
   c) Then how long you would like to wait to make your comment 
 
 5) Profit! The script will activate. **Though, be warned that if your power settings are not properly configured to keep the computer on, the program may fail.**
-To prevent this, navigate to `power and sleep settings` in settings and set `sleep` to `never`. Ideally, your screen will go to sleep quickly to save energy while the computer stays on until you come back to it later. This functionality may be bypassed in later versions of the script, but as of right now, your machine must be running.
+To prevent this, navigate to `power and sleep settings` in settings and set `sleep` to `never`. Ideally, your screen will go to sleep quickly to save energy while the computer stays on until you come back to it later. This may be bypassed in later versions of the script, but as of right now, your machine must be running.
 ![Settings picture](https://i.imgur.com/dDv7sfx.png)

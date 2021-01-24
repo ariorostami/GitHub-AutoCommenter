@@ -33,7 +33,7 @@ comment_box= driver.find_element_by_id('new_commit_comment_field')
 comment_box.send_keys(msg)
 time.sleep(secs)
 button = driver.find_element_by_xpath("//*[@id='all_commit_comments']/div[3]/form/div/div/button")
-print(f"task successfully accomplished at{datetime.now}")
+print(f"task successfully accomplished at{datetime.now()}")
 driver = None
 print("I liek mudkipz")
 

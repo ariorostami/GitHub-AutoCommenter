@@ -1,6 +1,7 @@
-# GithubCommenter (python 3.9.1)
+![Logo](https://i.imgur.com/cMeHSYr.png)
 
-Will make a comment on a github commit at a time given by the user
+
+**Github AutoCommenter** (python 3.9.1) Will make a comment on a github commit at a time given by the user
 
 # How To Use:
 

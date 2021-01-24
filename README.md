@@ -6,7 +6,7 @@
 # How To Use:
 
 1) Import selenium and pyautogui with commands `pip install selenium` and `pip install pyautogui`.
-2) Open the file `githubCommenter.py` and change the dummy values on lines 28 and 30 to your github username and password.
+2) Open the file `githubCommenter.py` and change the dummy values on lines 27 and 30 to your github username and password.
 3) run `githubCommenter.py`
 4) When prompted:
   a) Paste the link of your repo into terminal,

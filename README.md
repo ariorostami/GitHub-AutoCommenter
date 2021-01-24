@@ -10,7 +10,7 @@
 3) run `githubCommenter.py`
 4) When prompted:
   
-  a) Paste the link of your repo into terminal,
+  a) Paste the link to your commit into terminal,
   
   b) Then the text of your comment,
   

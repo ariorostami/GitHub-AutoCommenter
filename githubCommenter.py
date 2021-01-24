@@ -5,7 +5,7 @@ from pyautogui import press, typewrite, hotkey
 from datetime import datetime
 from datetime import timedelta
 import time
-#INSERT YOUR GITHUB USERNAME AND PASSWORD ON LINES 28 AND 30, AND IMPORT SELENIUM AND PYAUTOGUI BEFORE RUNNING
+#INSERT YOUR GITHUB USERNAME AND PASSWORD ON LINES 27 AND 30, AND IMPORT SELENIUM AND PYAUTOGUI BEFORE RUNNING
 print("WARNING: change your computers power and sleep settings to not turn off or else this script may fail.\nYou can let the screen go to sleep though.\n")
 print("==================================================\n")
 print("What github commit would you like to comment on?\n")

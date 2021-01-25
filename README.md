@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/cMeHSYr.png)
+![Logo](https://i.imgur.com/NaEFDnL.png)
 
 
 **Github AutoCommenter** (python 3.9.1) Will make a comment on a github commit at a time given by the user
